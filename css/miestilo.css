@@ -6,12 +6,13 @@ body{
     padding: 0;
     overflow-x: hidden; /*evitar el desbordamiento horizontal  */
 }
-/* 
+
 .estilo-parrafo {
-    text-align: center;
+    color: black;
+    text-align: justify;
     font-weight: bold;
     font-style: italic;
-} */
+}
 
 header {
     background-color: #69bd45;
@@ -99,7 +100,7 @@ img {
   }
   
   .social-icons a:hover {
-    color: #007BFF; /* Cambia el color al pasar el mouse */
+    color: black; /* Cambia el color al pasar el mouse */
   }
 
 * {
