@@ -18,13 +18,15 @@ header {
     text-align: center;
     padding: 20px;
     }
-    section {
+    
+section {
     padding: 20px; /* espaciado para la sección de 20 pixeles */}
-    footer {
+
+footer {
     background-color: #4caf50; /* Color de fondo del footer */
     color: #fff;
     padding: 20px 0; }
-    .footer-content {
+.footer-content {
     max-width: 800px; /* Ancho máximo del contenido del footer */
     margin: 0 auto; /* Centrar el contenido del footer horizontalmente */
     text-align: center; 
@@ -68,10 +70,6 @@ img {
     border: 3px solid #69bd45; /* Contorno de 3px con un color verde (#69bd45) alrededor de la img.*/
     border-radius: 10px; /* Borde redondeado de 10px para suavizar el contorno */
     }
-
-footer{
-    text-align: center;
-}
 
 /* Estilo para los iconos sociales */
 .social-icons {
